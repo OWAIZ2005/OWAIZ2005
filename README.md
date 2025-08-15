@@ -15,7 +15,7 @@ I'm **Mohamed Basheer**, an aspiring **App Developer** with a passion for buildi
 
 📱 I focus on:
 - **Cross-platform app development** with **Flutter**
-- **Backend integration** using **Firebase & REST APIs**
+- **Backend integration** using **Firebase**
 - **State management**, performance optimization, and seamless user experience
 - **Designing interfaces** that blend creativity and clarity
 
@@ -36,8 +36,8 @@ I'm **Mohamed Basheer**, an aspiring **App Developer** with a passion for buildi
 ## 🧰 Tech Stack
 
 ```bash
-🛠️ Languages: Dart, Python, JavaScript
-📱 App Dev: Flutter, Firebase, REST APIs, Hive
+🛠️ Languages: C++, Dart, Python, JavaScript
+📱 App Dev: Flutter, Firebase
 🎨 UI: Figma, Flutter UI toolkit, Google Fonts
 🧪 Testing: Flutter Test, Postman
 📂 Version Control: Git, GitHub
