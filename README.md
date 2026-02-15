@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Mohamed Basheer</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=App+Developer+%7C+DSA+Learner+%7C+Problem+Solver;Grinding+LeetCode+Daily+🔥;Flutter+%7C+Firebase+%7C+Competitive+Programming;Code.+Solve.+Build.+Repeat."/>
-</p>
+
 
 ---
 
