@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OWAIZ2005&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OWAIZ2005&theme=tokyonight" />
+  
 </p>
 
 ---
