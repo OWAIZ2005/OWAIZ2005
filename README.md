@@ -10,9 +10,7 @@
 
 <!-- ================= TYPING ANIMATION ================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=750&lines=Grinding+LeetCode+Daily+🔥;Flutter+%7C+Firebase+%7C+Mobile+Development;Data+Structures+%26+Algorithms+Enthusiast;Code.+Solve.+Build.+Repeat."/>
-</p>
+
 
 ---
 
