@@ -1,45 +1,25 @@
-<!-- ================= HERO BANNER ================= -->
+<!-- ===== Banner ===== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:1f1c2c&height=230&section=header&text=Mohamed%20Basheer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:1f1c2c&height=220&section=header&text=Mohamed%20Basheer&fontSize=42&fontColor=ffffff"/>
 
-<h1 align="center">👋 Hey there, I'm Mohamed Basheer</h1>
+<h1 align="center">Hey there, I'm Mohamed Basheer</h1>
 
-<p align="center">
-  <b>App Developer • Competitive Programmer • Problem Solver</b>
-</p>
-
-<!-- ================= TYPING ANIMATION ================= -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=750&lines=Grinding+LeetCode+Daily+🔥;Flutter+%7C+Firebase+%7C+Mobile+Development;Data+Structures+%26+Algorithms+Enthusiast;Code.+Solve.+Build.+Repeat."/>
-</p>
-
----
-
-> 💡 *"I don't just write apps — I craft experiences that feel native, intuitive, scalable, and impactful."*
+<p align="center"><b>App Developer • Competitive Programmer • Problem Solver</b></p>
 
 ---
 
 ## 🧠 Currently Focused On
 
 🔥 Data Structures & Algorithms (LeetCode)  
-📈 Strengthening problem-solving & interview skills  
-🎯 Preparing for top tech companies (FAANG)  
+📈 Interview preparation  
+🎯 Building scalable applications  
 
 ---
 
-## 🏆 LeetCode Stats (Real-Time)
+## 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Basheer2005?theme=dark&font=baloo&ext=heatmap" />
-</p>
-
----
-
-## 🔥 LeetCode Daily Streak
-
-<p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=Basheer2005&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/Basheer2005" />
 </p>
 
 ---
@@ -47,7 +27,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OWAIZ2005&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OWAIZ2005&show_icons=true" />
 </p>
 
 ---
@@ -55,45 +35,40 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OWAIZ2005&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OWAIZ2005&layout=compact" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I’m an aspiring **Software Engineer**, **App Developer**, and **Problem Solver** passionate about building scalable applications and mastering algorithms.
-
-📱 App Development  
-• Cross-platform apps using **Flutter**  
-• Backend integration with **Firebase**  
-• Performance optimization & clean architecture  
-• UI/UX focused development  
-
-🧠 Problem Solving  
-• Daily LeetCode practice  
-• Strong interest in algorithms & data structures  
-• Competitive programming mindset  
+• Flutter App Developer  
+• Firebase Backend Integration  
+• Competitive Programming Enthusiast  
+• Passionate about problem solving  
 
 ---
 
-## 📱 Featured Projects
+## 📱 Projects
 
-| 💼 Project | 🚀 Description |
-|-----------|----------------|
-| **SlotBook** | Smart slot-booking app for organized scheduling |
-| **ScheduleUp** | All-in-one planner for students & clubs |
-| **Billiance** | AI-Powered retail solution for small businesses |
-
-> Every project I build aims to solve real-world problems efficiently.
+- SlotBook — Smart slot booking app  
+- ScheduleUp — Planner for students & clubs  
+- Billiance — AI retail solution  
 
 ---
 
 ## 🧰 Tech Stack
 
-```bash
-🛠️ Languages: C++, Dart, Python, JavaScript
-📱 Mobile Dev: Flutter, Firebase
-🎨 UI/UX: Figma, Flutter UI toolkit
-🧪 Testing: Flutter Test, Postman
-📂 Tools: Git, GitHub
+C++ • Dart • Python • JavaScript  
+Flutter • Firebase • Git • Figma  
+
+---
+
+## 🤝 Connect
+
+LinkedIn:  
+https://www.linkedin.com/in/mohamed-basheer/
+
+---
+
+⭐ Code. Solve. Build. Repeat.
