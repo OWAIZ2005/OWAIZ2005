@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Mohamed Basheer</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=App+Developer+%7C+Creative+Thinker+%7C+Problem+Solver;Code.+Design.+Deliver."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=520&lines=App+Developer+%7C+DSA+Learner+%7C+Problem+Solver;Currently+Grinding+LeetCode+Daily+🔥;Code.+Solve.+Build.+Repeat."/>
 </p>
 
 ---
@@ -9,15 +10,50 @@
 
 ---
 
+## 🧠 Currently Focused On
+
+🔥 Solving **Data Structures & Algorithms** on LeetCode  
+📈 Improving problem-solving skills daily  
+🎯 Preparing for top tech interviews  
+
+---
+
+## 🏆 LeetCode Stats (Real-Time)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/OWAIZ2005?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
+## 🔥 LeetCode Daily Streak (Real-Time)
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=OWAIZ2005&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OWAIZ2005&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OWAIZ2005&theme=tokyonight" />
+</p>
+
+---
+
 ## 🌟 About Me
 
-I'm **Mohamed Basheer**, an aspiring **App Developer** with a passion for building **smooth, scalable, and user-focused mobile apps**. I love turning ideas into polished products with beautiful design and strong logic.
+I'm **Mohamed Basheer**, an aspiring **App Developer** and **Problem Solver** passionate about building scalable apps and mastering algorithms.
 
 📱 I focus on:
+
 - **Cross-platform app development** with **Flutter**
 - **Backend integration** using **Firebase**
-- **State management**, performance optimization, and seamless user experience
-- **Designing interfaces** that blend creativity and clarity
+- **State management & performance optimization**
+- **Designing intuitive and beautiful interfaces**
+- **Daily DSA practice on LeetCode**
 
 ---
 
@@ -26,7 +62,7 @@ I'm **Mohamed Basheer**, an aspiring **App Developer** with a passion for buildi
 | 💼 Project | 🚀 Description |
 |-----------|----------------|
 | **SlotBook** | A clean and efficient slot-booking app for organized scheduling |
-| **ScheduleUp** |ScheduleUp helps college students and clubs stay organized, connected, and informed—all in one app. |
+| **ScheduleUp** | Helps college students and clubs stay organized, connected, and informed |
 | **Billiance** | AI-Powered Retail Solutions for Small Shops |
 
 > Every app I build solves a real problem or simplifies life for someone. That’s the goal.
@@ -41,11 +77,3 @@ I'm **Mohamed Basheer**, an aspiring **App Developer** with a passion for buildi
 🎨 UI: Figma, Flutter UI toolkit, Google Fonts
 🧪 Testing: Flutter Test, Postman
 📂 Version Control: Git, GitHub
-
-
-Let's Connect
-💼 LinkedIn -- https://www.linkedin.com/in/mohamed-basheer/
-
-
-
-
