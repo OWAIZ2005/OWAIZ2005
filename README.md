@@ -1,24 +1,30 @@
-<!-- 🔥 Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamed%20Basheer&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<!-- ================= HERO BANNER ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Mohamed%20Basheer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">👋 Hey there, I'm Mohamed Basheer</h1>
 
-<!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=App+Developer+%7C+DSA+Learner+%7C+Problem+Solver;Grinding+LeetCode+Daily+🔥;Flutter+%7C+Firebase+%7C+Competitive+Programming;Code.+Solve.+Build.+Repeat."/>
+  <b>App Developer • Competitive Programmer • Problem Solver</b>
+</p>
+
+<!-- ================= TYPING ANIMATION ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=750&lines=Grinding+LeetCode+Daily+🔥;Flutter+%7C+Firebase+%7C+Mobile+Development;Data+Structures+%26+Algorithms+Enthusiast;Code.+Solve.+Build.+Repeat."/>
 </p>
 
 ---
 
-> 💡 *"I don't just write apps — I craft experiences that feel native, intuitive, and impactful."*
+> 💡 *"I don't just write apps — I craft experiences that feel native, intuitive, scalable, and impactful."*
 
 ---
 
 ## 🧠 Currently Focused On
 
-🔥 Solving **Data Structures & Algorithms** on LeetCode  
-📈 Improving problem-solving skills daily  
-🎯 Preparing for top tech interviews  
+🔥 Data Structures & Algorithms (LeetCode)  
+📈 Strengthening problem-solving & interview skills  
+🎯 Preparing for top tech companies (FAANG)  
 
 ---
 
@@ -30,7 +36,7 @@
 
 ---
 
-## 🔥 LeetCode Daily Streak (Real-Time)
+## 🔥 LeetCode Daily Streak
 
 <p align="center">
   <img src="https://leetcode-stats.vercel.app/api?username=Basheer2005&theme=dark" />
@@ -38,7 +44,7 @@
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OWAIZ2005&show_icons=true&theme=tokyonight&rank_icon=github" />
@@ -47,7 +53,7 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OWAIZ2005&theme=tokyo-night" />
@@ -55,25 +61,20 @@
 
 ---
 
-## 🐍 Contribution Snake (Auto-Generated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OWAIZ2005/OWAIZ2005/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🌟 About Me
 
-I'm **Mohamed Basheer**, an aspiring **Software Developer**, **App Developer**, and **Problem Solver** passionate about building scalable apps and mastering algorithms.
+I’m an aspiring **Software Engineer** passionate about building scalable applications and mastering algorithms.
 
-📱 I focus on:
+📱 App Development  
+• Cross-platform apps using **Flutter**  
+• Backend integration with **Firebase**  
+• Performance optimization & clean architecture  
+• UI/UX focused development  
 
-- Cross-platform app development with **Flutter**
-- Backend integration using **Firebase**
-- State management & performance optimization
-- Designing intuitive and beautiful interfaces
-- Daily DSA practice on LeetCode
+🧠 Problem Solving  
+• Daily LeetCode practice  
+• Strong interest in algorithms & data structures  
+• Competitive programming mindset  
 
 ---
 
@@ -81,11 +82,11 @@ I'm **Mohamed Basheer**, an aspiring **Software Developer**, **App Developer**, 
 
 | 💼 Project | 🚀 Description |
 |-----------|----------------|
-| **SlotBook** | A clean and efficient slot-booking app for organized scheduling |
-| **ScheduleUp** | Helps college students and clubs stay organized, connected, and informed |
-| **Billiance** | AI-Powered Retail Solutions for Small Shops |
+| **SlotBook** | Smart slot-booking app for organized scheduling |
+| **ScheduleUp** | All-in-one planner for students & clubs |
+| **Billiance** | AI-Powered retail solution for small businesses |
 
-> Every app I build solves a real problem or simplifies life for someone.
+> Every project I build aims to solve real-world problems efficiently.
 
 ---
 
@@ -93,7 +94,7 @@ I'm **Mohamed Basheer**, an aspiring **Software Developer**, **App Developer**, 
 
 ```bash
 🛠️ Languages: C++, Dart, Python, JavaScript
-📱 App Dev: Flutter, Firebase
-🎨 UI/UX: Figma, Flutter UI toolkit, Google Fonts
+📱 Mobile Dev: Flutter, Firebase
+🎨 UI/UX: Figma, Flutter UI toolkit
 🧪 Testing: Flutter Test, Postman
-📂 Version Control: Git, GitHub
+📂 Tools: Git, GitHub
