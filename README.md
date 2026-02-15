@@ -54,7 +54,8 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OWAIZ2005&theme=tokyo-night" />
+  
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OWAIZ2005&theme=tokyonight" />
 </p>
 
 ---
