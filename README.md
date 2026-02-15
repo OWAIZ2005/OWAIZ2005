@@ -1,6 +1,12 @@
+<!-- 🔥 Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamed%20Basheer&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
 <h1 align="center">👋 Hey there, I'm Mohamed Basheer</h1>
 
-
+<!-- ⚡ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=App+Developer+%7C+DSA+Learner+%7C+Problem+Solver;Grinding+LeetCode+Daily+🔥;Flutter+%7C+Firebase+%7C+Competitive+Programming;Code.+Solve.+Build.+Repeat."/>
+</p>
 
 ---
 
@@ -45,6 +51,14 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OWAIZ2005&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Auto-Generated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OWAIZ2005/OWAIZ2005/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
