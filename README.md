@@ -1,6 +1,6 @@
 <!-- ================= HERO BANNER ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Mohamed%20Basheer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:1f1c2c&height=230&section=header&text=Mohamed%20Basheer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">👋 Hey there, I'm Mohamed Basheer</h1>
 
@@ -48,22 +48,21 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OWAIZ2005&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OWAIZ2005&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OWAIZ2005&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OWAIZ2005&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I’m an aspiring **Software Engineer** passionate about building scalable applications and mastering algorithms.
+I’m an aspiring **Software Engineer**, **App Developer**, and **Problem Solver** passionate about building scalable applications and mastering algorithms.
 
 📱 App Development  
 • Cross-platform apps using **Flutter**  
