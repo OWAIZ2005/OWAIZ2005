@@ -34,11 +34,6 @@
 
 ---
 
-## 🔥 LeetCode Daily Streak
-
-<p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=Basheer2005&theme=dark" />
-</p>
 
 ---
 
