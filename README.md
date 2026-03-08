@@ -89,13 +89,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OWAIZ2005&show_icons=true&hide_border=true&bg_color=020b18&title_color=7ec8e3&icon_color=2a6496&text_color=4a7fa8&rank_icon=percentile&ring_color=0d3a5c" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=OWAIZ2005&show_icons=true&hide_border=true&bg_color=020b18&title_color=7ec8e3&icon_color=2a6496&text_color=4a7fa8&rank_icon=percentile&ring_color=0d3a5c&cache_seconds=86400" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OWAIZ2005&layout=compact&hide_border=true&bg_color=020b18&title_color=7ec8e3&text_color=4a7fa8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OWAIZ2005&layout=compact&hide_border=true&bg_color=020b18&title_color=7ec8e3&text_color=4a7fa8&cache_seconds=86400" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OWAIZ2005&hide_border=true&background=020b18&ring=0d3a5c&fire=2a6496&currStreakLabel=7ec8e3&sideLabels=2a6496&dates=1a3a52&sideNums=4a7fa8&currStreakNum=e8f4fd"/>
+<img src="https://streak-stats.demolab.com/?user=OWAIZ2005&hide_border=true&background=020b18&ring=0d3a5c&fire=2a6496&currStreakLabel=7ec8e3&sideLabels=2a6496&dates=1a3a52&sideNums=4a7fa8&currStreakNum=e8f4fd"/>
 
 <br/><br/>
 
