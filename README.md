@@ -89,9 +89,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OWAIZ2005&show_icons=true&hide_border=true&bg_color=020b18&title_color=7ec8e3&icon_color=2a6496&text_color=4a7fa8&rank_icon=percentile&ring_color=0d3a5c&cache_seconds=86400" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OWAIZ2005&layout=compact&hide_border=true&bg_color=020b18&title_color=7ec8e3&text_color=4a7fa8&cache_seconds=86400" height="165"/>
 
 <br/><br/>
 
