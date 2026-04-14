@@ -19,7 +19,7 @@
 
 # 🧠 Currently Focused On
 
-🔥 Data Structures & Algorithms (LeetCode)  
+🔥 Data Structures & Algorithms  
 📈 Strengthening problem-solving & interview skills  
 🎯 Preparing for top tech companies (FAANG)
 
