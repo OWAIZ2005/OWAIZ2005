@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-💡 <i>"I don't just write apps — I craft experiences that feel native, intuitive, scalable, and impactful."</i>
+ <i>"I don't just write apps — I craft experiences that feel native, intuitive, scalable, and impactful."</i>
 </p>
 
 ---
