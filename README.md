@@ -77,8 +77,8 @@ I’m an aspiring **Software Engineer** passionate about building scalable appli
 # 🧰 Tech Stack
 
 ```bash
-🛠️ Languages: C++, Dart, Python, JavaScript
-📱 Mobile Development: Flutter, Firebase
-🎨 UI/UX: Figma, Flutter UI Toolkit
-🧪 Testing: Flutter Test, Postman
-📂 Tools: Git, GitHub
+Languages: C++, Dart, Python, JavaScript
+Mobile Development: Flutter, Firebase
+UI/UX: Figma, Flutter UI Toolkit
+Testing: Flutter Test, Postman
+Tools: Git, GitHub
