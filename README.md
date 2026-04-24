@@ -19,9 +19,9 @@
 
 # 🧠 Currently Focused On
 
-🔥 Data Structures & Algorithms  
-📈 Strengthening problem-solving & interview skills  
-🎯 Preparing for top tech companies (FAANG)
+Data Structures & Algorithms  
+Strengthening problem-solving & interview skills  
+Preparing for top tech companies (FAANG)
 
 ---
 
