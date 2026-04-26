@@ -47,7 +47,7 @@ Preparing for top tech companies (FAANG)
 
 # 🌟 About Me
 
-I’m an aspiring **Software Engineer** passionate about building scalable applications and mastering algorithms.
+I am an aspiring **Software Engineer** passionate about building scalable applications and mastering algorithms.
 
 ### 📱 App Development
 - Cross-platform apps using **Flutter**
