@@ -20,7 +20,7 @@
 # 🧠 Currently Focused On
 
 Data Structures & Algorithms  
-Strengthening problem-solving and interview skills  
+Strengthening problem solving and interview skills  
 Preparing for top tech companies (FAANG)
 
 ---
