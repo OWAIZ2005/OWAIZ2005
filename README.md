@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Mohamed%20Basheer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hey there 👋, I'm Mohamed Basheer</h1>
+<h1 align="center">Hey there , I'm Mohamed Basheer</h1>
 
 <p align="center">
 <b>Competitive Programmer • App Developer • Problem Solver</b>
