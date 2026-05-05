@@ -70,7 +70,7 @@ I am an aspiring **Software Engineer** passionate about building scalable applic
 | **ScheduleUp** | All-in-one planner for students & clubs |
 | **Webtree (NAD Group)** | NAD Group Rewards & Gift Card App |
 
-> Every project I build aims to solve real-world problems efficiently.
+> Every project I build aims to solve real world problems efficiently.
 
 ---
 
