@@ -68,7 +68,7 @@ I am an aspiring **Software Engineer** passionate about building scalable applic
 |------------|---------------|
 | **SlotBook** | Smart slot-booking app for organized scheduling |
 | **ScheduleUp** | All-in-one planner for students & clubs |
-| **Webtree (NAD Group)** | NAD Group Rewards & Gift Card App |
+| **NAD Group** | NAD Group Rewards & Gift Card App |
 
 > Every project I build aims to solve real world problems efficiently.
 
