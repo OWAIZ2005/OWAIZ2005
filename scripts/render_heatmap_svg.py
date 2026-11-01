@@ -36,15 +36,42 @@ def streaks(days):
     return current, longest
 
 
+WINDOW = 365  # the heatmap always shows exactly this many consecutive days
+
+
+def validate_days(days) -> None:
+    """Refuse to render anything but exactly WINDOW consecutive days."""
+    if len(days) != WINDOW:
+        raise ValueError(f"expected {WINDOW} days, found {len(days)}")
+    dates = [date.fromisoformat(d["date"]) for d in days]
+    if any((b - a).days != 1 for a, b in zip(dates, dates[1:])):
+        raise ValueError("days are not consecutive")
+    if any(not isinstance(d["count"], int) or d["count"] < 0 for d in days):
+        raise ValueError("invalid contribution count")
+
+
+def compute_stats(days) -> dict:
+    cur, longest = streaks(days)
+    return {"total": sum(d["count"] for d in days),
+            "active": sum(1 for d in days if d["count"] > 0),
+            "current": cur, "longest": longest,
+            "best": max(d["count"] for d in days)}
+
+
 def main() -> int:
     if not DATA.exists():
         print("missing data/contributions.json", file=sys.stderr)
         return 1
-    data = json.loads(DATA.read_text(encoding="utf-8"))
-    days = data["days"]
-    cur, longest = streaks(days)
-    busiest = max(days, key=lambda d: d["count"])
-    active = sum(1 for d in days if d["count"] > 0)
+    try:
+        data = json.loads(DATA.read_text(encoding="utf-8"))
+        days = data["days"]
+        validate_days(days)
+    except (ValueError, KeyError, TypeError) as e:
+        print(f"invalid data/contributions.json, heatmap not rendered: {e}", file=sys.stderr)
+        return 1
+    st = compute_stats(days)
+    cur, longest, active, best, total = st["current"], st["longest"], st["active"], st["best"], st["total"]
+    refreshed = data.get("refreshed_on") or str(data.get("fetched_at", ""))[:10]
 
     first = date.fromisoformat(days[0]["date"])
     grid_start = first - timedelta(days=(first.weekday() + 1) % 7)  # Sunday-aligned
@@ -78,8 +105,8 @@ def main() -> int:
                       for i, c in enumerate(PALETTE))
     legend += f'<text x="{lx + 5 * STEP + 4}" y="{H - 20}" fill="{MUTED}" font-size="10">More</text>'
 
-    stats = (f'{data["total"]} contributions in the last year  ·  current streak {cur}d  ·  '
-             f'longest streak {longest}d  ·  active days {active}  ·  best day {busiest["count"]}')
+    stats = (f'{total} contributions in the last year  ·  current streak {cur}d  ·  '
+             f'longest streak {longest}d  ·  active days {active}  ·  best day {best}')
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" font-family="{FONT}" role="img" aria-label="GitHub contribution heatmap">
 <rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="10" fill="{BG}" stroke="{BORDER}"/>
 <text x="24" y="34" fill="#39d353" font-size="13">$</text>
@@ -89,11 +116,11 @@ def main() -> int:
 {labels}
 {"".join(out)}
 {legend}
-<text x="24" y="{H - 20}" fill="{MUTED}" font-size="10">updated {data["fetched_at"][:10]}</text>
+<text x="24" y="{H - 20}" fill="{MUTED}" font-size="10">updated {refreshed}</text>
 </svg>
 '''
     OUT.write_text(svg, encoding="utf-8", newline="\n")
-    print(f"wrote {OUT.name}: total={data['total']} current={cur} longest={longest}")
+    print(f"wrote {OUT.name}: total={total} current={cur} longest={longest}")
     return 0
 
 
