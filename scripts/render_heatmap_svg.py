@@ -92,7 +92,7 @@ def main() -> int:
 <text x="24" y="{H - 20}" fill="{MUTED}" font-size="10">updated {data["fetched_at"][:10]}</text>
 </svg>
 '''
-    OUT.write_text(svg, encoding="utf-8")
+    OUT.write_text(svg, encoding="utf-8", newline="\n")
     print(f"wrote {OUT.name}: total={data['total']} current={cur} longest={longest}")
     return 0
 

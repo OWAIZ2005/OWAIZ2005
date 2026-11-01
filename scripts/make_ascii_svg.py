@@ -84,7 +84,7 @@ def main() -> int:
         print("run scripts/prep_photo.py first", file=sys.stderr)
         return 1
     rows = to_rows()
-    OUT.write_text(build_svg(rows), encoding="utf-8")
+    OUT.write_text(build_svg(rows), encoding="utf-8", newline="\n")
     print(f"wrote {OUT.name} ({COLS}x{ROWS})")
     print("\n".join(rows))
     return 0

@@ -103,7 +103,7 @@ def main() -> int:
 </g>
 </svg>
 '''
-    OUT.write_text(svg, encoding="utf-8")
+    OUT.write_text(svg, encoding="utf-8", newline="\n")
     print(f"wrote {OUT.name}; content ends at y={y:.0f}/{H}, widest ~{need_w:.0f}/{W}px")
     return 0
 
