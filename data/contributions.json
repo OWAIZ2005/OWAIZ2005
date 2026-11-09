@@ -1,18 +1,8 @@
 {
  "username": "OWAIZ2005",
- "refreshed_on": "2026-11-07",
- "total": 291,
+ "refreshed_on": "2026-11-09",
+ "total": 303,
  "days": [
-  {
-   "date": "2025-11-08",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-09",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-11-10",
    "count": 0,
@@ -1825,6 +1815,16 @@
   },
   {
    "date": "2026-11-07",
+   "count": 3,
+   "level": 2
+  },
+  {
+   "date": "2026-11-08",
+   "count": 9,
+   "level": 4
+  },
+  {
+   "date": "2026-11-09",
    "count": 0,
    "level": 0
   }
